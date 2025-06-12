@@ -1,0 +1,2 @@
+mkdir autodiagnoza
+cd autodiagnoza

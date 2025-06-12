@@ -1,0 +1,11 @@
+{
+  "name": "autodiagnoza",
+  "version": "1.0.0",
+  "description": "Aplikacja do analizy i wyceny aut",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Mateusz Różycki",
+  "license": "MIT"
+}
